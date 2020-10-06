@@ -15,6 +15,7 @@ In this exercise you'll practice using git to clone and edit repositories, as wi
 
 7. Push changes up to GitHub, and view them in your web browser. Make sure you are looking at the repository under _your_ account!
 
-1. spinach
-2. eggs
-3. sourdough toast
+List of what I ate for breakfast
+- spinach
+- eggs
+- sourdough toast
